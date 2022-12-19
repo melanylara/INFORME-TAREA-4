@@ -12,7 +12,13 @@
 ># 1. OBJETIVOS 
 **OBJETIVO GENERAL**
 
+- Identificar y analizar las relaciones serie-paralelo de los circuitos para poder así realizar los ejercicios propuestos en los dos capítulos, mediante la lectura y comprensión de estos. 
+
 **OBJETIVOS ESPECÍFICOS**
+
+- Localizar fallas en circuitos en serie-paralelo.
+- Aplicar los teoremas vistos para simplificar un circuito y para su análisis. 
+- Describir tanto las características de una fuente de corriente como la de una fuente de voltaje.
 
 ># 2. MARCO TEORICO (RESUMEN)
 
@@ -293,8 +299,13 @@ https://youtu.be/hJXjQT00_4w
 
 ># 5. CONCLUSIONES
 
+- Para la conversion de una fuente de voltaje a una de corriente o viceversa, simplemente debemos utilizar las formulas de la ley de Ohm, ya antes vistas.
+- Se comprendio la diferencia entre un circuito en serie y paralelo y elaboración, también permitió observar las características de cada circuito, como su intensidad, su voltaje y su resistencia.
+
 
 ># 6. BIBLIOGRAFÍA
 
-FLOYD, THOMAS L. (2007). Principios de circuitos electricos. Octava edición PEARSON EDUCACIÓN
+- FLOYD, THOMAS L. (2007). Principios de circuitos electricos. Octava edición PEARSON EDUCACIÓN
+- Electronicafacil. (2020). Circuitos. Recuperado de: https://mielectronicafacil.com/analisis-de-circuitos/circuito-mixto/#page-content 
+- Analisis de circuitos. (2019). Transformaciñon de Fuentes. Recuperado de: https://analisisdecircuitos1.wordpress.com/parte-1-circuitos-resistivos-cap-21-a-30-en-construccion/capitulo-27-transformacion-de-fuentes/ 
 
