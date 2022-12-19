@@ -289,7 +289,10 @@ c. La combinación en paralelo de R2 y R3 está en serie con la combinación en 
 
 ># 4. VIDEO
 
+https://youtu.be/hJXjQT00_4w
+
 ># 5. CONCLUSIONES
+
 
 ># 6. BIBLIOGRAFÍA
 
